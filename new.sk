@@ -1,0 +1,4 @@
+#test
+
+on death of zombie:
+    drop 1 TNT
